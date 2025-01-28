@@ -1,0 +1,26 @@
+.blog_post_7{
+    box-sizing: border-box;
+    margin: 0 auto;
+   
+}
+
+/*Yazı Tipleri*/
+.poppins-regular {
+    font-family: "Poppins", serif;
+    font-weight: 200;
+    font-style: normal;
+    color: rgb(70, 60, 60);
+    text-align: justify;
+  }
+ 
+  
+.giris{
+    margin: 0 auto;
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 2rem;
+
+}  
